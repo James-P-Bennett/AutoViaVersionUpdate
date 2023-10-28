@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ViaVersionAutoUpdate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ViaVersionAutoUpdate_jar</output-path>
+    <root id="archive" name="ViaVersionAutoUpdate.jar">
+      <element id="module-output" name="ViaVersionAutoUpdate" />
+    </root>
+  </artifact>
+</component>
