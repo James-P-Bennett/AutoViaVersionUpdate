@@ -1,4 +1,4 @@
 name: ViaVersionAutoUpdate
 version: '${project.version}'
 main: me.adarsh.autoupdate.AutoUpdate
-author: [ Adarsh ]
+author: [ Adarsh, Hazmad_ ]
