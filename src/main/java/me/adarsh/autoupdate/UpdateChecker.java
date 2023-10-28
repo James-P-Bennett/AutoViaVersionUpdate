@@ -55,10 +55,6 @@ public class UpdateChecker implements Runnable {
                 // New update!
                 installUpdate(oldJar, fileName, relativePath);
 
-                // Restart the server to apply the update
-                viaVersionAutoUpdate.startRestartCountdown();
-            }
-
 
         } catch (Exception e) {
             System.err.println("[ViaVersionAutoUpdate] An error occured while checking for updates");
